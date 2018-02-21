@@ -9,8 +9,8 @@ end
 def sound=(sound)
   @sound = sound
 end
-# def sound
-#   puts "Woof!"
-# end
+ def sound
+   puts "Woof!"
+ end
 
 end
