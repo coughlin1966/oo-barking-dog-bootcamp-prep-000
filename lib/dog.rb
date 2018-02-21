@@ -6,10 +6,10 @@ end
  def name
     @name
 end
-def sound=(sound)
+def bark=(sound)
   @sound = sound
 end
- def sound
+ def bark
    puts "Woof!"
  end
 
