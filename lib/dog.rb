@@ -11,5 +11,5 @@ end
 def sound
   puts "Woof!"
 end
-  
+
 end
