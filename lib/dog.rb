@@ -1,15 +1,15 @@
 class Dog
 
-def name=(name, sound)
+def name=(name)
   @name = name
-  @sound = sound
+  #@sound = sound
 end
-def name(name, sound)
-@name
-@sound
-end
-def sound
-  puts "Woof!"
-end
+# def name(name, sound)
+# @name
+# @sound
+# end
+# def sound
+#   puts "Woof!"
+# end
 
 end
