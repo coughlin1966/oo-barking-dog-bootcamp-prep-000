@@ -4,10 +4,10 @@ def name=(name)
   @name = name
   #@sound = sound
 end
-# def name(name, sound)
-# @name
+ def name(name, sound)
+    @name
 # @sound
-# end
+end
 # def sound
 #   puts "Woof!"
 # end
