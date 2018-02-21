@@ -4,7 +4,7 @@ def name=(name)
   @name = name
   #@sound = sound
 end
- def name(name, sound)
+ def name
     @name
 # @sound
 end
